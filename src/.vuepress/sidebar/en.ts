@@ -3,6 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 export const enSidebar = sidebar({
   "/": [
     "",
+    "intro",
     {
       text: "Demo",
       icon: "laptop-code",
@@ -16,7 +17,6 @@ export const enSidebar = sidebar({
       prefix: "posts/",
       children: "structure",
     },
-    "intro",
     {
       text: "Slides",
       icon: "person-chalkboard",

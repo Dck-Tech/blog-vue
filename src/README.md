@@ -8,6 +8,11 @@ heroText: AI to the feature
 tagline: You can put your slogan here
 heroFullScreen: true
 projects:
+  - icon: circle-info
+    name: Intro Page
+    desc: Hành trình khám phá công nghệ và cuộc sống
+    link: /intro
+
   - icon: project
     name: project name
     desc: project detailed description
@@ -38,7 +43,7 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: Kirito Phan Blog
 ---
 
 This is a blog home page demo.
