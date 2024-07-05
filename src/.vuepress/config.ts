@@ -25,7 +25,7 @@ export default defineUserConfig({
     "/zh/": {
       lang: "zh-CN",
       title: "キリト",
-      description: "vuepress-themeキリト-hope 的博客演示",
+      description: "vuepress-theme-hope 的博客演示",
     },
 
   },
