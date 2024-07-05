@@ -9,7 +9,7 @@ tag:
   - small
 ---
 
-# Chuyển việc IT tại Nhật Bản
+# Strawberry
 
 #### Làm thế nào để chuyển việc IT?
 
