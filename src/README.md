@@ -5,8 +5,9 @@ icon: home
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: AI to the feature
-tagline: You can put your slogan here
+tagline: Welcome to Kirito Phan blog
 heroFullScreen: true
+bgImage: https://res.cloudinary.com/dbxtjdeyj/image/upload/v1720183738/vietnihon/anh_bia_contact_plb3sw.jpg
 projects:
   - icon: circle-info
     name: Intro Page
@@ -51,3 +52,4 @@ This is a blog home page demo.
 To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
 
 For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home.html).
+

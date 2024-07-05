@@ -3,8 +3,10 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
+
 export default hopeTheme({
   hostname: "https://github.com/kiritophan",
+  darkmode: "switch",
 
   author: {
     name: "Mr.Kirito",
@@ -15,7 +17,8 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "kiritophan",
+
 
   docsDir: "src",
 
@@ -96,6 +99,8 @@ export default hopeTheme({
   plugins: {
     blog: true,
 
+
+
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
@@ -107,6 +112,23 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
+
+    search: {
+      locales: {
+        "/": {
+          placeholder: "Search",
+        },
+        "/zh/": {
+          placeholder: "搜索",
+        },
+        "/ja/": {
+          placeholder: "検索",
+        },
+      }
+    },
+
+
+
 
     // These features are enabled for demo, only preserve features you need here
     mdEnhance: {
