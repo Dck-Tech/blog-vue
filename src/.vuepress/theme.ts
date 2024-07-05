@@ -121,9 +121,6 @@ export default hopeTheme({
         "/zh/": {
           placeholder: "搜索",
         },
-        "/ja/": {
-          placeholder: "検索",
-        },
       }
     },
 
