@@ -1,15 +1,14 @@
 ---
 icon: pen-to-square
-date: 2022-01-07
+date: 2022-01-10
 category:
-  - Banana
+  - Guide
 tag:
-  - yellow
-  - curly
-  - long
+  - nguoinhat
+  - vietnam
 ---
 
-# Banana 3
+# Làm thế nào để kết bạn với người Nhật?
 
 ## Heading 2
 

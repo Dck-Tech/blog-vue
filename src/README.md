@@ -8,6 +8,11 @@ heroText: AI to the feature
 tagline: Welcome to Kirito Phan blog
 heroFullScreen: true
 bgImage: https://res.cloudinary.com/dbxtjdeyj/image/upload/v1720183738/vietnihon/anh_bia_contact_plb3sw.jpg
+actions: 
+  - text: Get Started
+    link: /
+    icon: signs-post
+    type: primary
 projects:
   - icon: circle-info
     name: Intro Page

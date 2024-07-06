@@ -108,6 +108,10 @@ export default hopeTheme({
     //   provider: "Waline",
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
+    comment: {
+      provider: "Waline",
+      serverURL: "https://www.vietnihon.com/",
+    },
 
     components: {
       components: ["Badge", "VPCard"],
