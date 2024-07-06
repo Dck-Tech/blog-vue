@@ -110,7 +110,7 @@ export default hopeTheme({
     // },
     comment: {
       provider: "Waline",
-      serverURL: "https://blog-kp0mbmjsu-vietnihon.vercel.app/",
+      serverURL: "https://www.vietnihon.com/",
     },
 
     components: {
